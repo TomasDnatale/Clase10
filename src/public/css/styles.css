@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-color: #102540;
+    font-weight: 600;
+    color: rgb(185, 226, 219);
+    display: flexbox;
+    
+}
+
+form {
+    max-width: 500px;
+    margin: auto;
+    display: grid;
+    padding: 50px;
+
+}
+
+.btn{
+    margin-top: 15px;
+}
+input{
+    background-color: rgb(216, 211, 211);
+    color: rgb(0, 0, 0);
+    margin-bottom: 10px;
+    
+}

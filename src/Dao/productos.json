@@ -1,0 +1,67 @@
+	[
+	{
+	  "title": "Auricular Gamer",
+	  "description": "Astro A50 Xbox + Base Inalámbrico",
+	  "price": 97000,
+	  "status": true,
+	  "category": "Perifericos",
+	  "thumbnail": [
+		"empty"
+	  ],
+	  "code": "1",
+	  "stock": 25,
+	  "id": 1
+	},
+	{
+	  "title": "Teclado Gamer",
+	  "description": "Redragon K589 Shrapnel Rgb",
+	  "price": 230000,
+	  "status": true,
+	  "category": "Teclados y Mouses",
+	  "thumbnail": [
+		"empty"
+	  ],
+	  "code": "2",
+	  "stock": 60,
+	  "id": 2
+	},
+	{
+	  "title": "Mouse Usb",
+	  "description": "Logitech M90 Dark Midnight Negro",
+	  "price": 2200,
+	  "status": true,
+	  "category": "Teclados y Mouses",
+	  "thumbnail": [
+		"empty"
+	  ],
+	  "code": "3",
+	  "stock": 80,
+	  "id": 3
+	},
+	{
+	  "title": "Teclado Inalambrico",
+	  "description": "Logitech Pop Keys Inalámbrico Negro Amarillo",
+	  "price": 35000,
+	  "status": true,
+	  "category": "Teclados y Mouses",
+	  "thumbnail": [
+		"empty"
+	  ],
+	  "code": "6",
+	  "stock": 50,
+	  "id": 4
+	},
+	{
+	  "title": "Silla Gamer",
+	  "description": "Level Up Apolo Negro C/apoya Pies",
+	  "price": 85000,
+	  "status": true,
+	  "category": "Perifericos",
+	  "thumbnail": [
+		"empty"
+	  ],
+	  "code": "9",
+	  "stock": 40,
+	  "id": 5
+	}
+  ]
